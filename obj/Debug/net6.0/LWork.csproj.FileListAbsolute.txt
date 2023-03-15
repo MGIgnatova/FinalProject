@@ -1,0 +1,15 @@
+C:\Users\marina\Desktop\csharp\c#\LWork\bin\Debug\net6.0\LWork.exe
+C:\Users\marina\Desktop\csharp\c#\LWork\bin\Debug\net6.0\LWork.deps.json
+C:\Users\marina\Desktop\csharp\c#\LWork\bin\Debug\net6.0\LWork.runtimeconfig.json
+C:\Users\marina\Desktop\csharp\c#\LWork\bin\Debug\net6.0\LWork.dll
+C:\Users\marina\Desktop\csharp\c#\LWork\bin\Debug\net6.0\LWork.pdb
+C:\Users\marina\Desktop\csharp\c#\LWork\obj\Debug\net6.0\LWork.csproj.AssemblyReference.cache
+C:\Users\marina\Desktop\csharp\c#\LWork\obj\Debug\net6.0\LWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina\Desktop\csharp\c#\LWork\obj\Debug\net6.0\LWork.AssemblyInfoInputs.cache
+C:\Users\marina\Desktop\csharp\c#\LWork\obj\Debug\net6.0\LWork.AssemblyInfo.cs
+C:\Users\marina\Desktop\csharp\c#\LWork\obj\Debug\net6.0\LWork.csproj.CoreCompileInputs.cache
+C:\Users\marina\Desktop\csharp\c#\LWork\obj\Debug\net6.0\LWork.dll
+C:\Users\marina\Desktop\csharp\c#\LWork\obj\Debug\net6.0\refint\LWork.dll
+C:\Users\marina\Desktop\csharp\c#\LWork\obj\Debug\net6.0\LWork.pdb
+C:\Users\marina\Desktop\csharp\c#\LWork\obj\Debug\net6.0\LWork.genruntimeconfig.cache
+C:\Users\marina\Desktop\csharp\c#\LWork\obj\Debug\net6.0\ref\LWork.dll
